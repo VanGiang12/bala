@@ -1,0 +1,25 @@
+.navar{
+    height: 40px;
+    background-color: blue;
+}
+.navar .menu{
+    list-style-type: none;
+    
+}
+.navar .menu li{
+    float: left;
+}
+.navar .menu li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.main-title{
+    color: red;
+    text-transform: uppercase;
+}
+.title h1{
+    color: blue;
+}
